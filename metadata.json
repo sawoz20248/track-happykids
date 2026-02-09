@@ -1,0 +1,7 @@
+{
+  "name": "家教回報系統",
+  "description": "專業的家教學生進度回報系統，具備動態表單、防呆驗證與資料匯出功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
